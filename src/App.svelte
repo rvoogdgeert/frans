@@ -2,398 +2,65 @@
     import FlashCard from "./lib/FlashCard.svelte";
 
     // Define flash cards data structure
-    const flashCards = [
-        {
-            id: 1,
-            question: "οὐ, οὐκ, οὐχ",
-            answer: "niet",
-        },
-        {
-            id: 2,
-            question: "ἐστί(ν)",
-            answer: "is",
-        },
-        {
-            id: 3,
-            question: "ὁ ἄνθρωπος",
-            answer: "mens",
-        },
-        {
-            id: 4,
-            question: "ὁ θεός",
-            answer: "god",
-        },
-        {
-            id: 5,
-            question: "εἰσί(ν)",
-            answer: "zijn",
-        },
-        {
-            id: 6,
-            question: "ὁ δοῦλος",
-            answer: "slaaf",
-        },
-        {
-            id: 7,
-            question: "ἔχει",
-            answer: "heeft",
-        },
-        {
-            id: 8,
-            question: "ἔχουσι(ν)",
-            answer: "hebben",
-        },
-        {
-            id: 9,
-            question: "ἡ χώρα",
-            answer: "land",
-        },
-        {
-            id: 10,
-            question: "οἰκεῖ",
-            answer: "woont",
-        },
-        {
-            id: 11,
-            question: "οἰκοῦσι(ν)",
-            answer: "wonen",
-        },
-        {
-            id: 12,
-            question: "ὁ φόβος",
-            answer: "angst",
-        },
-        {
-            id: 13,
-            question: "δε, δ᾽",
-            answer: "en",
-        },
-        {
-            id: 14,
-            question: "φέρει",
-            answer: "draagt",
-        },
-        {
-            id: 15,
-            question: "φέρουσι(ν)",
-            answer: "dragen",
-        },
-        {
-            id: 16,
-            question: "τὸ θηρίον",
-            answer: "wild dier",
-        },
-        {
-            id: 17,
-            question: "βαίνει",
-            answer: "gaat",
-        },
-        {
-            id: 18,
-            question: "βαίνουσι(ν)",
-            answer: "gaan",
-        },
-        {
-            id: 19,
-            question: "πρός",
-            answer: "naar",
-        },
-        {
-            id: 20,
-            question: "αλλα, αλλ᾽",
-            answer: "maar",
-        },
-        {
-            id: 21,
-            question: "οὕτως, οὕτω",
-            answer: "zo",
-        },
-        {
-            id: 22,
-            question: "φεύγει",
-            answer: "vlucht",
-        },
-        {
-            id: 23,
-            question: "φεύγουσι(ν)",
-            answer: "vluchten",
-        },
-        {
-            id: 24,
-            question: "μάχη",
-            answer: "gevecht",
-        },
-        {
-            id: 25,
-            question: "νῦν",
-            answer: "nu",
-        },
-        {
-            id: 26,
-            question: "εἰς",
-            answer: "naar",
-        },
-        {
-            id: 27,
-            question: "καί",
-            answer: "en",
-        },
-        {
-            id: 28,
-            question: "λαμβάνει",
-            answer: "neemt",
-        },
-        {
-            id: 29,
-            question: "λαμβάνουσι(ν)",
-            answer: "nemen",
-        },
-
-        {
-            id: 30,
-            question: "τοῦτο",
-            answer: "dit",
-        },
-        {
-            id: 31,
-            question: "ποιεῖ",
-            answer: "doet",
-        },
-        {
-            id: 32,
-            question: "ποιοῦσι(ν)",
-            answer: "doen",
-        },
-        {
-            id: 33,
-            question: "ὁ δεσπότης",
-            answer: "heerser",
-        },
-        {
-            id: 34,
-            question: "γάρ",
-            answer: "want",
-        },
-        {
-            id: 35,
-            question: "ὁ φίλος",
-            answer: "vriend",
-        },
-        {
-            id: 36,
-            question: "ἐνθαῦτα",
-            answer: "daar",
-        },
-        {
-            id: 37,
-            question: "μέγας, μεγάλη, μέγα",
-            answer: "groot",
-        },
-        {
-            id: 38,
-            question: "δεινός, δεινή, δεινόν",
-            answer: "verschrikkelijk",
-        },
-        {
-            id: 39,
-            question: "φοβερός, φοβερά, φοβερόν",
-            answer: "angstaanjagend",
-        },
-        {
-            id: 40,
-            question: "μέν",
-            answer: "tweede zin",
-        },
-        {
-            id: 41,
-            question: "κεφαλή",
-            answer: "hoofd",
-        },
-        {
-            id: 42,
-            question: "θνητός",
-            answer: "sterfelijk",
-        },
-        {
-            id: 43,
-            question: "ἀθάνατος",
-            answer: "onsterfelijk",
-        },
-        {
-            id: 44,
-            question: "ζητεῖ",
-            answer: "zoekt",
-        },
-        {
-            id: 45,
-            question: "εὑρίσκει",
-            answer: "vindt",
-        },
-        {
-            id: 46,
-            question: "μακρός, μακρά, μακρόν",
-            answer: "lang",
-        },
-        {
-            id: 47,
-            question: "ἔπειτα",
-            answer: "daarna",
-        },
-        {
-            id: 48,
-            question: "οὐδέν",
-            answer: "niets",
-        },
-        {
-            id: 49,
-            question: "μία",
-            answer: "een",
-        },
-        {
-            id: 50,
-            question: "τί...",
-            answer: "waarom",
-        },
-        {
-            id: 51,
-            question: "πρῶτον μέν..., ἔπειτα δέ",
-            answer: "eerst daarna",
-        },
-        {
-            id: 52,
-            question: "ἀποκτείνει",
-            answer: "doodt",
-        },
-        {
-            id: 53,
-            question: "καλεῖ",
-            answer: "roept",
-        },
-        {
-            id: 54,
-            question: "νέος, νέα, νέον",
-            answer: "nieuw",
-        },
-        {
-            id: 55,
-            question: "ἄλλος, ἄλλη, ἄλλο",
-            answer: "ander",
-        },
-        {
-            id: 56,
-            question: "ἕκαστος, ἑκάστη, ἕκαστον",
-            answer: "ieder",
-        },
-        {
-            id: 57,
-            question: "αὐτίκα",
-            answer: "meteen",
-        },
-        {
-            id: 58,
-            question: "ἡ πέτρα",
-            answer: "rots",
-        },
-        {
-            id: 59,
-            question: "κρύπτει",
-            answer: "verbergt",
-        },
-        {
-            id: 60,
-            question: "ἡ βασίλεια",
-            answer: "koningin",
-        },
-        {
-            id: 61,
-            question: "μάλα",
-            answer: "erg",
-        },
-        {
-            id: 62,
-            question: "ἀνδρεῖος",
-            answer: "dapper",
-        },
-        {
-            id: 63,
-            question: "καλός",
-            answer: "mooi",
-        },
-        {
-            id: 64,
-            question: "τὸ δῶρον",
-            answer: "geschenk",
-        },
-        {
-            id: 65,
-            question: "ὁ πόλεμος",
-            answer: "oorlog",
-        },
-        {
-            id: 66,
-            question: "φιλέω",
-            answer: "houden van",
-        },
-        {
-            id: 67,
-            question: "φίλος",
-            answer: "geliefd",
-        },
-        {
-            id: 68,
-            question: "θαυμάζω",
-            answer: "bewonderen",
-        },
-        {
-            id: 69,
-            question: "οὖν",
-            answer: "dan",
-        },
-        {
-            id: 70,
-            question: "αἰτέω",
-            answer: "vragen",
-        },
-        {
-            id: 71,
-            question: "ἐγώ",
-            answer: "ik",
-        },
-        {
-            id: 72,
-            question: "ἐπιθυμέω",
-            answer: "verlangen",
-        },
-        {
-            id: 73,
-            question: "ἐθέλω",
-            answer: "willen",
-        },
-        {
-            id: 74,
-            question: "σύ",
-            answer: "jij",
-        },
-        {
-            id: 75,
-            question: "ἐπί",
-            answer: "op af",
-        },
-        {
-            id: 76,
-            question: "πέμπω",
-            answer: "sturen",
-        },
-        {
-            id: 77,
-            question: "ὁ ἑταῖρος",
-            answer: "vriend",
-        },
-        {
-            id: 78,
-            question: "πολλοί",
-            answer: "veel",
-        },
+    let flashCards = [
+        { id: 1, question: "la famille", answer: "de familie" },
+        { id: 2, question: "le père", answer: "de vader" },
+        { id: 3, question: "la mère", answer: "de moeder" },
+        { id: 4, question: "les parents", answer: "de ouders" },
+        { id: 5, question: "la maison", answer: "het huis" },
+        { id: 6, question: "la chambre", answer: "de slaapkamer" },
+        { id: 7, question: "le lit", answer: "het bed" },
+        { id: 8, question: "la table", answer: "de tafel" },
+        { id: 9, question: "la chaise", answer: "de stoel" },
+        { id: 10, question: "la cuisine", answer: "de keuken" },
+        { id: 11, question: "le salon", answer: "de woonkamer" },
+        { id: 12, question: "le jardin", answer: "de tuin" },
+        { id: 13, question: "le frère", answer: "de broer" },
+        { id: 14, question: "la sœur", answer: "de zus" },
+        { id: 15, question: "le cousin", answer: "de neef" },
+        { id: 16, question: "la cousine", answer: "de nicht" },
+        { id: 17, question: "le grand-père", answer: "de opa" },
+        { id: 18, question: "la grand-mère", answer: "de oma" },
+        { id: 19, question: "drôle", answer: "grappig" },
+        { id: 20, question: "chouette", answer: "leuk" },
+        { id: 21, question: "bien", answer: "goed" },
+        { id: 22, question: "pas mal", answer: "niet slecht" },
+        { id: 23, question: "l'ami", answer: "de vriend" },
+        { id: 24, question: "l'amie", answer: "de vriendin" },
+        { id: 25, question: "le weekend", answer: "het weekend" },
+        { id: 26, question: "hier", answer: "gisteren" },
+        { id: 27, question: "la semaine", answer: "de week" },
+        { id: 28, question: "dernier", answer: "vorige" },
+        { id: 29, question: "prochaine", answer: "volgende" },
+        { id: 30, question: "jouer", answer: "spelen" },
+        { id: 31, question: "le but", answer: "het doelpunt" },
+        { id: 32, question: "l'équipe", answer: "het team" },
+        { id: 33, question: "perdu", answer: "verloren" },
+        { id: 34, question: "gagné", answer: "gewonnen" },
+        { id: 35, question: "janvier", answer: "januari" },
+        { id: 36, question: "février", answer: "februari" },
+        { id: 37, question: "mars", answer: "maart" },
+        { id: 38, question: "avril", answer: "april" },
+        { id: 39, question: "mai", answer: "mei" },
+        { id: 40, question: "juin", answer: "juni" },
+        { id: 41, question: "juillet", answer: "juli" },
+        { id: 42, question: "aout", answer: "augustus" },
+        { id: 43, question: "septembre", answer: "september" },
+        { id: 44, question: "octobre", answer: "oktober" },
+        { id: 45, question: "novembre", answer: "november" },
+        { id: 46, question: "décembre", answer: "december" },
+        { id: 47, question: "le soir", answer: "'s avonds" },
+        { id: 48, question: "l'apres-midi", answer: "'s middags" },
+        { id: 49, question: "le jour", answer: "de dag" },
+        { id: 50, question: "l'anniversaire", answer: "de verjaardag" },
+        { id: 51, question: "fêter", answer: "vieren" },
+        { id: 52, question: "la chose", answer: "het ding" },
+        { id: 53, question: "demander", answer: "vragen" },
+        { id: 54, question: "le repas", answer: "de maaltijd" },
+        { id: 55, question: "l'endroit", answer: "de plaats" },
+        { id: 56, question: "créatif", answer: "creatief" },
+        { id: 57, question: "sociable", answer: "sociaal" },
+        { id: 58, question: "enthousiaste", answer: "enthousiast" },
     ];
 
     // Create a shuffled version of the flashcards
@@ -466,7 +133,7 @@
 
 <main>
     <div class="container">
-        <h1>Flash Cards Grieks</h1>
+        <h1>Flash Cards Frans</h1>
 
         <div class="score-container">
             <p>Points: {points} (Attempted: {attempted})</p>
