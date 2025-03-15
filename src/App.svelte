@@ -61,41 +61,41 @@
         { id: 53, question: "enthousiaste", answer: "enthousiast" },
 
         // C
-        //{
-        //    id: 54,
-        //    question: "Tu as passé un bon weekend?",
-        //    answer: "Heb je een goed weekend gehad?"
-        //},
-        //{
-        //    id: 55,
-        //    question: "Oui, j'ai fêté mon anniversaire",
-        //    answer: "Ja, ik heb mijn verjaardag gevierd",
-        //},
-        //{
-        //    id: 56,
-        //    question: "Oui, on a regardé un film",
-        //    answer: "Ja, wij hebben een film gekeken",
-        //},
-        //{ id: 57, question: "Avec qui?", answer: "Met wie?" },
-        //{
-        //    id: 58,
-        //    question: "Avec mes copains et Enzo",
-        //    answer: "Met mijn vrienden en Enzo",
-        //},
-        //{ id: 59, question: "C'est qui, Enzo?", answer: "Wie is dat, Enzo?" },
-        //{ id: 60, question: "C'est mon cousin", answer: "Dat is mijn neef" },
-        //{ id: 61, question: "C'était bein?", answer: "Was het leuk?" },
-        //{
-        //    id: 62,
-        //    question: "Oui, c'était génial",
-        //    answer: "Ja, het was super",
-        //},
-        //{
-        //    id: 63,
-        //    question: "C'est quand ton anniversaire?",
-        //    answer: "Wanner ben je jarig?",
-        //},
-        //{ id: 64, question: "C'est la quatre avril", answer: "Op 4 april" },
+        {
+            id: 54,
+            question: "Tu as passé un bon weekend?",
+            answer: "Heb je een goed weekend gehad?",
+        },
+        {
+            id: 55,
+            question: "Oui, j'ai fêté mon anniversaire",
+            answer: "Ja, ik heb mijn verjaardag gevierd",
+        },
+        {
+            id: 56,
+            question: "Oui, on a regardé un film",
+            answer: "Ja, wij hebben een film gekeken",
+        },
+        { id: 57, question: "Avec qui?", answer: "Met wie?" },
+        {
+            id: 58,
+            question: "Avec mes copains et Enzo",
+            answer: "Met mijn vrienden en Enzo",
+        },
+        { id: 59, question: "C'est qui, Enzo?", answer: "Wie is dat, Enzo?" },
+        { id: 60, question: "C'est mon cousin", answer: "Dat is mijn neef" },
+        { id: 61, question: "C'était bein?", answer: "Was het leuk?" },
+        {
+            id: 62,
+            question: "Oui, c'était génial",
+            answer: "Ja, het was super",
+        },
+        {
+            id: 63,
+            question: "C'est quand ton anniversaire?",
+            answer: "Wanner ben je jarig?",
+        },
+        { id: 64, question: "C'est la quatre avril", answer: "Op 4 april" },
 
         // E
         //{ id: 65, question: "les lunettes", answer: "de bril" },
