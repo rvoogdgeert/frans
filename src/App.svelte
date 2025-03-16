@@ -93,7 +93,7 @@
         {
             id: 63,
             question: "C'est quand ton anniversaire?",
-            answer: "Wanner ben je jarig?",
+            answer: "Wanneer ben je jarig?",
         },
         { id: 64, question: "C'est la quatre avril", answer: "Op 4 april" },
 
