@@ -1,0 +1,116 @@
+//A
+le mariage, het huwelijk
+la fête, het feest
+le cousin, la cousine, de neef, de nicht
+tout le monde, iedereen
+j'attends, ik wacht (op)
+un/une autre, een ander(e)
+là-bas, daar(ginds)
+à coté de, naast
+souvent, vaak
+parfois, soms
+Frans, Nederlands
+mignon(ne), schattig
+pénible, lastig
+sympa, aardig, leuk
+le/la pauvre, de arme ziel
+en train de, bezig met
+on vient, we komen
+je n'ai pas faim, ik heb geen honger
+regarder, kijken (naar)
+partager, delen
+changer, veranderen
+
+//B
+le lapin, het konijn
+la tortue, de schildpad
+le hamster, de hamster
+l’oiseau m, de vogel
+le poisson, de vis
+le cochon d’Inde, de cavia
+je m’occupe de, ik zorg voor
+la nourriture, het voedsel, het eten
+malade, ziek
+heureux, heureuse, gelukkig
+Frans, Nederlands
+vieux, vieille, oud
+actif, active, actief
+gentil(le), aardig, lief
+câlin(e), aanhalig
+intelligent(e), slim
+acheter, kopen
+donner, geven
+exister, bestaan
+aider, helpen
+on peut, we kunnen
+
+//E
+la tante, de tante
+le copain, la copine, de vriend/vriendin
+le rendez-vous, de afspraak
+le portable, de mobiele telefoon
+la glace, het ijsje
+content(e), tevreden
+interdit(e), verboden
+nul(le), waardeloos
+donc, dus
+maintenant, nu
+vite, snel
+peut-être, misschien
+après, daarna, na
+arrêter, ophouden, stoppen
+j’en ai marre, ik ben het zat
+présenter, voorstellen
+écouter, luisteren
+participer à, meedoen aan
+trouver, vinden
+gagner, winnen
+
+//F
+la maison, het huis
+la cuisine, de keuken
+la chambre, de kamer
+le salon, de woonkamer
+la salle de bains, de badkamer
+le lit, het bed
+l’armoire v, de kast
+la table, de tafel
+la chaise, de stoel
+la fenêtre, het raam
+Frans, Nederlands
+les loisirs m mv, de vrije tijd
+le paysage, het landschap
+car, want
+je me lève, ik sta op
+tôt, vroeg
+dormir, slapen
+travailler, werken
+jouer à la console, gamen
+vivre, leven
+je vis, ik leef, woon
+
+//C
+Heb je broers en zussen?, Tu as des frères et sœurs?
+Ja, ik heb een zusje van tien., Oui, j'ai une petite sœur de dix ans.
+Hoe heet zij?, Comment elle s'appelle?
+Zij heet Samira., Elle s'appelle Samira.
+Hoe heet zij?, Elle est comment?
+Ze is schattig. Maar soms is ze lastig., Elle est adorable. Mais, parfois elle est pénible.
+Wat doen jullie graag samen?, Qu'est-ce que vous aimez faire ensemble?
+We kijken graag tv., On aime regarder la télé.
+Heb jij een huisdier?, Tu as un animal domestique?
+Ja, ik heb een hond en twee katten., Oui, j'ai un chien et deux chats.
+Mijn hond heet Brownie en hij is erg oud., Mon chien s'appelle Brownie et il est très vieux.
+
+//G
+Waar woon jij?, Tu habites où?
+Ik woon in Parijs., J'habite à Paris.
+Woon jij in een huis?, Tu habites dans une maison?
+Nee, ik woon in een flat., Non, j'habite dans un appartement.
+Hoe vind jij jouw slaapkamer?, Comment tu trouves ta chambre?
+Ik vind mijn slaapkamer leuk, hij is groot., J'aime bien ma chambre, elle est grande.
+Er staat een bed in en een bureau., Il y a un lit et un bureau.
+Ben jij vaak in jouw slaapkamer?, Tu es souvent dans ta chambre?
+Ja, om te kletsen met mijn vrienden., Oui, pour discuter avec mes amis.
+Wat doe je in je kamer?, Qu'est-ce que tu fais dans ta chambre?
+Je fais mes devoirs et j'écoute de la musique., Ik maak huiswerk en ik luister naar muziek.
