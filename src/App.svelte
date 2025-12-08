@@ -79,7 +79,7 @@
         { id: 65, question: "le poisson", answer: "de vis" },
         { id: 66, question: "le cochon d'Inde", answer: "de cavia" },
         { id: 67, question: "je m'occupe de", answer: "ik zorg voor" },
-        { id: 68, question: "la nourriture", answer: "het voedsel, het eten" },
+        { id: 68, question: "la nourriture", answer: "het voedsel" },
         { id: 69, question: "malade", answer: "ziek" },
         { id: 70, question: "heureux, heureuse", answer: "gelukkig" },
         { id: 71, question: "vieux, vieille", answer: "oud" },
