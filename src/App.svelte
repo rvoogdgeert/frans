@@ -119,7 +119,7 @@
         { id: 101, question: "maintenant", answer: "nu" },
         { id: 102, question: "vite", answer: "snel" },
         { id: 103, question: "peut-être", answer: "misschien" },
-        { id: 104, question: "après", answer: "daarna },
+        { id: 104, question: "après", answer: "daarna" },
         { id: 105, question: "arrêter", answer: "ophouden" },
         { id: 106, question: "j'en ai marre", answer: "ik ben het zat" },
         { id: 107, question: "présenter", answer: "voorstellen" },
