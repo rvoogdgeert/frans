@@ -84,7 +84,7 @@
         { id: 70, question: "heureux, heureuse", answer: "gelukkig" },
         { id: 71, question: "vieux, vieille", answer: "oud" },
         { id: 72, question: "actif, active", answer: "actief" },
-        { id: 73, question: "gentil(le)", answer: "aardig, lief" },
+        { id: 73, question: "gentil(le)", answer: "aardig" },
         { id: 74, question: "câlin(e)", answer: "aanhalig" },
         { id: 75, question: "intelligent(e)", answer: "slim" },
         { id: 76, question: "acheter", answer: "kopen" },
