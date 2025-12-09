@@ -95,16 +95,16 @@
 
         // C (sentences)
         { id: 81, question: "Heb je broers en zussen?", answer: "Tu as des freres et soeurs?" },
-        { id: 82, question: "Ja, ik heb een zusje van tien.", answer: "Oui, j′ai une petite soeur de dix ans." },
-        { id: 83, question: "Hoe heet zij?", answer: "Comment elle s′appelle?" },
-        { id: 84, question: "Zij heet Samira.", answer: "Elle s′appelle Samira." },
+        { id: 82, question: "Ja, ik heb een zusje van tien.", answer: "Oui, j’ai une petite soeur de dix ans." },
+        { id: 83, question: "Hoe heet zij?", answer: "Comment elle s’appelle?" },
+        { id: 84, question: "Zij heet Samira.", answer: "Elle s’appelle Samira." },
         { id: 85, question: "Hoe is zij?", answer: "Elle est comment?" },
         { id: 86, question: "Ze is schattig. Maar soms is ze lastig.", answer: "Elle est adorable. Mais, parfois elle est penible." },
         { id: 87, question: "Wat doen jullie graag samen?", answer: "Qu'est-ce que vous aimez faire ensemble?" },
         { id: 88, question: "We kijken graag tv.", answer: "On aime regarder la tele." },
         { id: 89, question: "Heb jij een huisdier?", answer: "Tu as un animal domestique?" },
-        { id: 90, question: "Ja, ik heb een hond en twee katten.", answer: "Oui, j′ai un chien et deux chats." },
-        { id: 91, question: "Mijn hond heet Brownie en hij is erg oud.", answer: "Mon chien s′appelle Brownie et il est tres vieux." },
+        { id: 90, question: "Ja, ik heb een hond en twee katten.", answer: "Oui, j’ai un chien et deux chats." },
+        { id: 91, question: "Mijn hond heet Brownie en hij is erg oud.", answer: "Mon chien s’appelle Brownie et il est tres vieux." },
 
         //// E
         //{ id: 92, question: "la tante", answer: "de tante" },
