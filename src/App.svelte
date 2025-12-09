@@ -151,17 +151,17 @@
         //{ id: 131, question: "je vis", answer: "ik leef" },
 
         //// G (sentences)
-        //{ id: 132, question: "Waar woon jij?", answer: "Tu habites où?" },
-        //{ id: 133, question: "Ik woon in Parijs.", answer: "J'habite à Paris." },
+        //{ id: 132, question: "Waar woon jij?", answer: "Tu habites ou?" },
+        //{ id: 133, question: "Ik woon in Parijs.", answer: "J’habite a Paris." },
         //{ id: 134, question: "Woon jij in een huis?", answer: "Tu habites dans une maison?" },
-        //{ id: 135, question: "Nee, ik woon in een flat.", answer: "Non, j'habite dans un appartement." },
+        //{ id: 135, question: "Nee, ik woon in een flat.", answer: "Non, j’habite dans un appartement." },
         //{ id: 136, question: "Hoe vind jij jouw slaapkamer?", answer: "Comment tu trouves ta chambre?" },
-        //{ id: 137, question: "Ik vind mijn slaapkamer leuk, hij is groot.", answer: "J'aime bien ma chambre, elle est grande." },
+        //{ id: 137, question: "Ik vind mijn slaapkamer leuk, hij is groot.", answer: "J’aime bien ma chambre, elle est grande." },
         //{ id: 138, question: "Er staat een bed in en een bureau.", answer: "Il y a un lit et un bureau." },
         //{ id: 139, question: "Ben jij vaak in jouw slaapkamer?", answer: "Tu es souvent dans ta chambre?" },
         //{ id: 140, question: "Ja, om te kletsen met mijn vrienden.", answer: "Oui, pour discuter avec mes amis." },
-        //{ id: 141, question: "Wat doe je in je kamer?", answer: "Qu'est-ce que tu fais dans ta chambre?" },
-        //{ id: 142, question: "Ik maak huiswerk en ik luister naar muziek.", answer: "Je fais mes devoirs et j'écoute de la musique." },
+        //{ id: 141, question: "Wat doe je in je kamer?", answer: "Qu’est-ce que tu fais dans ta chambre?" },
+        //{ id: 142, question: "Ik maak huiswerk en ik luister naar muziek.", answer: "Je fais mes devoirs et j’ecoute de la musique." },
 
         //{ id: 1, question: "le frère", answer: "de broer" },
         //{ id: 2, question: "la sœur", answer: "de zus" },
