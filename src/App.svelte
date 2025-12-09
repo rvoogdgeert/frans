@@ -67,7 +67,7 @@
         { id: 55, question: "en train de", answer: "bezig met" },
         { id: 56, question: "on vient", answer: "we komen" },
         { id: 57, question: "je n'ai pas faim", answer: "ik heb geen honger" },
-        { id: 58, question: "regarder", answer: "kijken naar" },
+        { id: 58, question: "regarder", answer: "kijken" },
         { id: 59, question: "partager", answer: "delen" },
         { id: 60, question: "changer", answer: "veranderen" },
 
