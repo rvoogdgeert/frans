@@ -2,7 +2,6 @@
     import FlashCard from "./lib/FlashCard.svelte";
 
     // Define flash cards data structure
-    // A test for ssh and gpg
     const flashCards = [
 
         // Chapitre 1
