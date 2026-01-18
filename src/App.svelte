@@ -209,7 +209,7 @@
         //{ id: 71, question: "afspreken", answer: "prendre rendez-vous" },
         //{ id: 72, question: "kom!", answer: "viens!" },
 
-        / B
+        // B
         { id: 21, question: "le sac", answer: "de tas" },
         { id: 22, question: "le T-shirt", answer: "het T-shirt" },
         { id: 23, question: "les lunettes de soleil", answer: "de zonnebril" },
