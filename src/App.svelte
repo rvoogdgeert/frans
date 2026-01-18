@@ -165,7 +165,7 @@
 
         // Chapitre 8
 
-        //// A
+        // A
         //{ id: 1, question: "le pantalon", answer: "de broek" },
         //{ id: 2, question: "la jupe", answer: "de rok" },
         //{ id: 3, question: "la robe", answer: "de jurk" },
