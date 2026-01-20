@@ -259,7 +259,7 @@
         { id: 43, question: "Oui, je voudrais acheter un nouveau jean.", answer: "Ja, ik wil graag een nieuwe spijkerbroek kopen" },
         { id: 44, question: "Comment tu trouves ce jean bleu?", answer: "Hoe vind je deze blauwe spijkerbroek?" },
         { id: 45, question: "Il est pas mal. Il coute combien?", answer: "Hij is niet slecht. Wat kost hij?" },
-        { id: 46, question: "Il coute trente euros (seulement).", answer: "Hij kost (maar) dertig euro" },
+        { id: 46, question: "Il coute trente euros (seulement).", answer: "Hij kost maar dertig euro" },
         { id: 47, question: "Ce n'est pas cher.", answer: "Dat is niet duur" },
         { id: 48, question: "Je vais l'essayer.", answer: "Ik ga hem passen" },
         { id: 49, question: "Tu fais quelle taille?", answer: "Welke maat heb je?" },
