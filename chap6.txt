@@ -1,0 +1,66 @@
+//A
+être en forme,in vorm zijn
+malade,ziek
+grave,ernstig
+"dangereux, dangereuse",gevaarlijk
+repose-toi bien,rust goed uit
+fais attention,pas op
+arrête !,hou op !
+vas-y,ga je gang
+viens,kom
+c'est mieux,het is beter
+rater,"missen, mislopen"
+avoir peur,bang zijn
+essayer,proberen
+bouger,bewegen
+attendre,wachten
+apprendre à,leren om
+participer à,meedoen aan
+facile,makkelijk
+peut-être,misschien
+sûr(e),zeker
+//B
+l’hôpital (m),het ziekenhuis
+chez le docteur,bij/naar de dokter
+le médicament,het medicijn
+guérir,genezen
+traiter,behandelen
+fatigué(e),moe
+utiliser,gebruiken
+le conseil,het advies
+partout,overal
+contre,tegen
+le corps,het lichaam
+la gorge,de keel
+le ventre,de buik
+le dos,de rug
+la main,de hand
+la jambe,het been
+le pied,de voet
+le doigt,de vinger
+l’oreille (v),het oor
+les yeux (m mv),de ogen
+//C
+Ça va ?,Gaat het?
+"Non, je pense que je suis malade.","Nee, ik denk dat ik ziek ben."
+Je ne me sens pas bien.,Ik voel me niet goed.
+Qu’est-ce que tu as ?,Wat heb je?
+J’ai mal à la tête.,Ik heb hoofdpijn.
+J’ai 39 de fièvre.,Ik heb 39 graden koorts.
+J’ai eu un accident.,Ik heb een ongeluk gehad.
+J’ai le bras cassé.,Ik heb een gebroken arm.
+Tu vas voir le docteur ?,Ga je naar de dokter?
+"Oui, j'ai rendez-vous cet après-midi.","Ja, ik heb vanmiddag een afspraak."
+"Non, je reste au lit.","Nee, ik blijf in bed."
+//G
+Tu es en bonne santé ?,Ben je gezond?
+"Oui, je ne suis jamais malade.","Ja, ik ben nooit ziek."
+Tu fais du sport ?,Doe jij aan sport?
+"Oui, parce que j'aime bouger.","Ja, omdat ik het leuk vind om te bewegen."
+"Non, je ne fais pas de sport.","Nee, ik doe niet aan sport."
+Qu’est-ce que tu fais comme sport ?,Wat doe je voor sport?
+Je fais du foot.,Ik voetbal.
+Je m’entraîne trois fois par semaine.,Ik train drie keer per week.
+Est-ce que tu manges bien ?,Eet je goed?
+"Oui, je mange beaucoup de fruits.","Ja, ik eet veel fruit."
+Mais je déteste les légumes.,Maar ik lust geen groenten.
