@@ -107,17 +107,17 @@
         //{ id: 238, question: "Non, je reste au lit.", answer: "Nee ik blijf in bed" },
 
         // C1
-        { id: 290, question: "Gaat het?", answer: "Ca va ?" },
-        { id: 291, question: "Nee, ik denk dat ik ziek ben.", answer: "Non, je pense que je suis malade." },
-        { id: 292, question: "Ik voel me niet goed.", answer: "Je ne me sens pas bien." },
-        { id: 293, question: "Wat heb je?", answer: "Qu'est-ce que tu as?" },
-        { id: 294, question: "Ik heb hoofdpijn.", answer: "J'ai mal a la tete." },
-        { id: 295, question: "Ik heb 39 graden koorts.", answer: "J'ai 39 de fievre." },
-        { id: 296, question: "Ik heb een ongeluk gehad.", answer: "J'ai eu un accident." },
-        { id: 297, question: "Ik heb een gebroken arm.", answer: "J'ai le bras casse." },
+        { id: 290, question: "Gaat het?", answer: "Ca va?" },
+        { id: 291, question: "Nee, ik denk dat ik ziek ben.", answer: "Non je pense que je suis malade" },
+        { id: 292, question: "Ik voel me niet goed.", answer: "Je ne me sens pas bien" },
+        { id: 293, question: "Wat heb je?", answer: "Qu est-ce que tu as?" },
+        { id: 294, question: "Ik heb hoofdpijn.", answer: "J ai mal a la tete" },
+        { id: 295, question: "Ik heb 39 graden koorts.", answer: "J ai 39 de fievre" },
+        { id: 296, question: "Ik heb een ongeluk gehad.", answer: "J ai eu un accident" },
+        { id: 297, question: "Ik heb een gebroken arm.", answer: "J ai le bras casse" },
         { id: 298, question: "Ga je naar de dokter?", answer: "Tu vas voir le docteur?" },
-        { id: 299, question: "Ja, ik heb vanmiddag een afspraak.", answer: "Oui, j'ai rendez-vous cet apres-midi." },
-        { id: 300, question: "Nee, ik blijf in bed.", answer: "Non, je reste au lit." },
+        { id: 299, question: "Ja, ik heb vanmiddag een afspraak.", answer: "Oui j ai rendez-vous cet apres-midi" },
+        { id: 300, question: "Nee, ik blijf in bed.", answer: "Non je reste au lit" },
 
         //// G
         //{ id: 239, question: "Tu es en bonne santé ?", answer: "Ben je gezond?" },
