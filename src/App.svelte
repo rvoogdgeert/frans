@@ -790,10 +790,10 @@
         { id: 413, question: "meedoen aan", answer: "participer a" },
         { id: 414, question: "je moet", answer: "il faut" },
         { id: 415, question: "de keuze", answer: "le choix" },
-        { id: 416, question: "het nadeel", answer: "l'inconvenient m" },
-        { id: 417, question: "zij ontvangt", answer: "elle recoit" },
-        { id: 418, question: "zij volgen", answer: "ils suivent" },
-        { id: 419, question: "zich bezighouden", answer: "s occuper de" },
+        //{ id: 416, question: "het nadeel", answer: "l'inconvenient m" },
+        //{ id: 417, question: "zij ontvangt", answer: "elle recoit" },
+        //{ id: 418, question: "zij volgen", answer: "ils suivent" },
+        //{ id: 419, question: "zich bezighouden", answer: "s occuper de" },
 
         ////// Chapitre C: Français - Néerlandais
         //{ id: 420, question: "Quel est le code WiFi?", answer: "Wat is de wificode?" },
