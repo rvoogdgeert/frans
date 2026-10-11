@@ -711,7 +711,7 @@
         //{ id: 340, question: "c'est dommage", answer: "dat is jammer" },
         //{ id: 341, question: "ce n'est pas grave", answer: "het is niet erg" },
 
-        ////// Chapitre A: Néerlandais - Français
+        ///// Chapitre A: Néerlandais - Français
         //{ id: 342, question: "ik volg", answer: "je suis" },
         //{ id: 343, question: "ik stuur", answer: "j envoie" },
         //{ id: 344, question: "(aan)maken", answer: "creer" },
@@ -831,15 +831,15 @@
         { id: 446, question: "intelligent(e)", answer: "intelligent" },
         { id: 447, question: "sociable", answer: "sociaal" },
         { id: 448, question: "optimiste", answer: "optimistisch" },
-        { id: 449, question: "faire du shopping", answer: "shoppen" },
-        { id: 450, question: "regarder la télé", answer: "tv kijken" },
-        { id: 451, question: "faire du sport", answer: "sporten" },
-        { id: 452, question: "écouter de la musique", answer: "muziek luisteren" },
-        { id: 453, question: "bavarder", answer: "kletsen" },
-        { id: 454, question: "à l'école v", answer: "op school" },
-        { id: 455, question: "dans mon quartier", answer: "in mijn wijk" },
-        { id: 456, question: "chez des amis", answer: "bij vrienden" },
-        { id: 457, question: "au club de sport", answer: "op de sportclub" },
+        //{ id: 449, question: "faire du shopping", answer: "shoppen" },
+        //{ id: 450, question: "regarder la télé", answer: "tv kijken" },
+        //{ id: 451, question: "faire du sport", answer: "sporten" },
+        //{ id: 452, question: "écouter de la musique", answer: "muziek luisteren" },
+        //{ id: 453, question: "bavarder", answer: "kletsen" },
+        //{ id: 454, question: "à l'école v", answer: "op school" },
+        //{ id: 455, question: "dans mon quartier", answer: "in mijn wijk" },
+        //{ id: 456, question: "chez des amis", answer: "bij vrienden" },
+        //{ id: 457, question: "au club de sport", answer: "op de sportclub" },
 
         ////// Chapitre E: Néerlandais - Français
         //{ id: 458, question: "de beste vriendin", answer: "la meilleure amie" },
