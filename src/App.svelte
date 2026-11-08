@@ -851,15 +851,15 @@
         //{ id: 464, question: "intelligent", answer: "intelligent" },
         //{ id: 465, question: "sociaal", answer: "sociable" },
         //{ id: 466, question: "optimistisch", answer: "optimiste" },
-        { id: 467, question: "shoppen", answer: "faire du shopping" },
-        { id: 468, question: "tv kijken", answer: "regarder la tele" },
-        { id: 469, question: "sporten", answer: "faire du sport" },
-        { id: 470, question: "muziek luisteren", answer: "ecouter de la musique" },
-        { id: 471, question: "kletsen", answer: "bavarder" },
-        { id: 472, question: "op school", answer: "a l ecole" },
-        { id: 473, question: "in mijn wijk", answer: "dans mon quartier" },
-        { id: 474, question: "bij vrienden", answer: "chez des amis" },
-        { id: 475, question: "op de sportclub", answer: "au club de sport" },
+        //{ id: 467, question: "shoppen", answer: "faire du shopping" },
+        //{ id: 468, question: "tv kijken", answer: "regarder la tele" },
+        //{ id: 469, question: "sporten", answer: "faire du sport" },
+        //{ id: 470, question: "muziek luisteren", answer: "ecouter de la musique" },
+        //{ id: 471, question: "kletsen", answer: "bavarder" },
+        //{ id: 472, question: "op school", answer: "a l ecole" },
+        //{ id: 473, question: "in mijn wijk", answer: "dans mon quartier" },
+        //{ id: 474, question: "bij vrienden", answer: "chez des amis" },
+        //{ id: 475, question: "op de sportclub", answer: "au club de sport" },
 
         ////// Chapitre F: Français - Néerlandais
         //{ id: 476, question: "l'arbre m", answer: "de boom" },
@@ -907,10 +907,132 @@
         //{ id: 514, question: "On aime jouer en ligne ensemble.", answer: "We spelen graag samen online." },
         //{ id: 515, question: "On se voit presque tous les jours.", answer: "Wij zien elkaar bijna elke dag." },
 
+        // Start here with the words from chap2_ab.jpg and chap2_c.jpg
+
+        //// Chapitre A: Français - Néerlandais
+        { id: 516, question: "le journal", answer: "de krant" },
+        { id: 517, question: "le sujet", answer: "het onderwerp" },
+        { id: 518, question: "réfléchir", answer: "nadenken" },
+        { id: 519, question: "raconte!", answer: "vertel!" },
+        { id: 520, question: "j'avais", answer: "ik had" },
+        { id: 521, question: "je voulais", answer: "ik wilde" },
+        { id: 522, question: "je dois", answer: "ik moet" },
+        { id: 523, question: "comme tu veux", answer: "zoals je wilt" },
+        { id: 524, question: "le lendemain", answer: "de volgende dag" },
+        { id: 525, question: "je me lève", answer: "ik sta op" },
+        { id: 526, question: "en retard", answer: "te laat" },
+        { id: 527, question: "plus tard", answer: "later" },
+        { id: 528, question: "tôt", answer: "vroeg" },
+        { id: 529, question: "les horaires m mv", answer: "de tijden" },
+        { id: 530, question: "au lieu de", answer: "in plaats van" },
+        //{ id: 531, question: "faire la grasse matinée", answer: "uitslapen" },
+        //{ id: 532, question: "se relaxer", answer: "zich ontspannen" },
+        //{ id: 533, question: "dessiner", answer: "tekenen" },
+        //{ id: 534, question: "lire", answer: "lezen" },
+        //{ id: 535, question: "faire du théâtre", answer: "toneelspelen" },
+        //{ id: 536, question: "jouer de la guitare", answer: "gitaar spelen" },
+        //{ id: 537, question: "jouer du piano", answer: "piano spelen" },
+        //{ id: 538, question: "faire des photos", answer: "fotograferen" },
+        //{ id: 539, question: "bête", answer: "dom" },
+        //{ id: 540, question: "embêtant(e)", answer: "vervelend" },
+        //{ id: 541, question: "j'ai horreur de", answer: "ik vind ... vreselijk" },
+        //{ id: 542, question: "je me suis trompé(e)", answer: "ik heb me vergist" },
+        //{ id: 543, question: "oublier", answer: "vergeten" },
+        //{ id: 544, question: "avoir envie de", answer: "zin hebben in" },
+        //{ id: 545, question: "venir chez moi", answer: "bij mij komen" },
+
+        ////// Chapitre A: Néerlandais - Français
+        //{ id: 546, question: "de krant", answer: "le journal" },
+        //{ id: 547, question: "het onderwerp", answer: "le sujet" },
+        //{ id: 548, question: "nadenken", answer: "reflechir" },
+        //{ id: 549, question: "vertel!", answer: "raconte!" },
+        //{ id: 550, question: "ik had", answer: "j avais" },
+        //{ id: 551, question: "ik wilde", answer: "je voulais" },
+        //{ id: 552, question: "ik moet", answer: "je dois" },
+        //{ id: 553, question: "zoals je wilt", answer: "comme tu veux" },
+        //{ id: 554, question: "de volgende dag", answer: "le lendemain" },
+        //{ id: 555, question: "ik sta op", answer: "je me leve" },
+        //{ id: 556, question: "te laat", answer: "en retard" },
+        //{ id: 557, question: "later", answer: "plus tard" },
+        //{ id: 558, question: "vroeg", answer: "tot" },
+        //{ id: 559, question: "de tijden", answer: "les horaires" },
+        //{ id: 560, question: "in plaats van", answer: "au lieu de" },
+        //{ id: 561, question: "uitslapen", answer: "faire la grasse matinee" },
+        //{ id: 562, question: "zich ontspannen", answer: "se relaxer" },
+        //{ id: 563, question: "tekenen", answer: "dessiner" },
+        //{ id: 564, question: "lezen", answer: "lire" },
+        //{ id: 565, question: "toneelspelen", answer: "faire du theatre" },
+        //{ id: 566, question: "gitaar spelen", answer: "jouer de la guitare" },
+        //{ id: 567, question: "piano spelen", answer: "jouer du piano" },
+        //{ id: 568, question: "fotograferen", answer: "faire des photos" },
+        //{ id: 569, question: "dom", answer: "bete" },
+        //{ id: 570, question: "vervelend", answer: "embetant" },
+        //{ id: 571, question: "ik vind ... vreselijk", answer: "j ai horreur de" },
+        //{ id: 572, question: "ik heb me vergist", answer: "je me suis trompe" },
+        //{ id: 573, question: "vergeten", answer: "oublier" },
+        //{ id: 574, question: "zin hebben in", answer: "avoir envie de" },
+        //{ id: 575, question: "bij mij komen", answer: "venir chez moi" },
+
+        ////// Chapitre B: Français - Néerlandais
+        //{ id: 576, question: "le but", answer: "het doel" },
+        //{ id: 577, question: "le jeu", answer: "het spel" },
+        //{ id: 578, question: "le début", answer: "het begin" },
+        //{ id: 579, question: "avoir peur de", answer: "bang zijn voor" },
+        //{ id: 580, question: "sans", answer: "zonder" },
+        //{ id: 581, question: "quand", answer: "wanneer, toen" },
+        //{ id: 582, question: "apprendre", answer: "leren" },
+        //{ id: 583, question: "commencer", answer: "beginnen" },
+        //{ id: 584, question: "fort(e)", answer: "sterk" },
+        //{ id: 585, question: "faible", answer: "zwak, slap" },
+        //{ id: 586, question: "facile", answer: "makkelijk" },
+        //{ id: 587, question: "difficile", answer: "moeilijk" },
+        //{ id: 588, question: "faire du cyclisme", answer: "wielrennen" },
+        //{ id: 589, question: "faire des randonnées", answer: "wandelen" },
+        //{ id: 590, question: "faire de la voile", answer: "zeilen" },
+        //{ id: 591, question: "faire de l'escalade v", answer: "klimmen" },
+
+        ////// Chapitre B: Néerlandais - Français
+        //{ id: 592, question: "het doel", answer: "le but" },
+        //{ id: 593, question: "het spel", answer: "le jeu" },
+        //{ id: 594, question: "het begin", answer: "le debut" },
+        //{ id: 595, question: "bang zijn voor", answer: "avoir peur de" },
+        //{ id: 596, question: "zonder", answer: "sans" },
+        //{ id: 597, question: "wanneer, toen", answer: "quand" },
+        //{ id: 598, question: "leren", answer: "apprendre" },
+        //{ id: 599, question: "beginnen", answer: "commencer" },
+        //{ id: 600, question: "sterk", answer: "fort" },
+        //{ id: 601, question: "zwak, slap", answer: "faible" },
+        //{ id: 602, question: "makkelijk", answer: "facile" },
+        //{ id: 603, question: "moeilijk", answer: "difficile" },
+        //{ id: 604, question: "wielrennen", answer: "faire du cyclisme" },
+        //{ id: 605, question: "wandelen", answer: "faire des randonnees" },
+        //{ id: 606, question: "zeilen", answer: "faire de la voile" },
+        //{ id: 607, question: "klimmen", answer: "faire de l escalade" },
+
+        ////// Chapitre C: Français - Néerlandais
+        //{ id: 608, question: "Qu'est-ce que tu vas faire demain?", answer: "Wat ga je morgen doen?" },
+        //{ id: 609, question: "Demain matin, je vais faire la grasse matinée.", answer: "Morgenochtend ga ik uitslapen." },
+        //{ id: 610, question: "Et après?", answer: "En daarna?" },
+        //{ id: 611, question: "L'après-midi, je vais aller en ville avec mes copains.", answer: "'s Middags ga ik met mijn vrienden naar de stad." },
+        //{ id: 612, question: "Qu'est-ce que tu vas faire d'autre ce weekend?", answer: "Wat ga je nog meer doen dit weekend?" },
+        //{ id: 613, question: "Je vais regarder des séries.", answer: "Ik ga series kijken." },
+        //{ id: 614, question: "Quelle est ta série préférée?", answer: "Wat is je lievelingsserie?" },
+        //{ id: 615, question: "C'est «Le bureau des légendes».", answer: "Dat is Le bureau des légendes." },
+
+        ////// Chapitre C: Néerlandais - Français
+        //{ id: 616, question: "Wat ga je morgen doen?", answer: "Qu'est-ce que tu vas faire demain?" },
+        //{ id: 617, question: "Morgenochtend ga ik uitslapen.", answer: "Demain matin, je vais faire la grasse matinee." },
+        //{ id: 618, question: "En daarna?", answer: "Et apres?" },
+        //{ id: 619, question: "'s Middags ga ik met mijn vrienden naar de stad.", answer: "L'apres-midi, je vais aller en ville avec mes copains." },
+        //{ id: 620, question: "Wat ga je nog meer doen dit weekend?", answer: "Qu'est-ce que tu vas faire d'autre ce weekend?" },
+        //{ id: 621, question: "Ik ga series kijken.", answer: "Je vais regarder des series." },
+        //{ id: 622, question: "Wat is je lievelingsserie?", answer: "Quelle est ta serie preferee?" },
+        //{ id: 623, question: "Dat is Le bureau des légendes.", answer: "C'est Le bureau des legendes." },
+
         ];
 
     // Create a shuffled version of the flashcards
-    let shuffledCards = [];
+    let shuffledCards: { id: number; question: string; answer: string }[] = [];
 
     // Fisher-Yates shuffle algorithm function
     function shuffleArray(array: any) {
@@ -932,11 +1054,12 @@
     // Keep track of the current card index
     let currentCardIndex = 0;
 
-    // State for tracking points system
+    // State for tracking points system and test progress
     let points = 0;
     let attempted = 0;
+    let incorrectCards: { id: number; question: string; answer: string }[] = [];
+    let isTestCompleted = false;
 
-    // Function to go to the next card
     // Function to go to the next card
     function nextCard() {
         if (currentCardIndex < shuffledCards.length - 1) {
@@ -950,30 +1073,59 @@
             currentCardIndex--;
         }
     }
+
     // Function to update points when an answer is submitted
     function handleAnswerSubmit(event: any) {
         const isCorrect = event.detail.isCorrect;
+        const currentCard = shuffledCards[currentCardIndex];
         attempted++;
 
         if (isCorrect) {
             points++; // Add 1 point for correct answer
 
-            // Set a 2-second delay for correct answers before moving to the next card
-            if (currentCardIndex < shuffledCards.length - 1) {
-                setTimeout(() => {
+            // Set a 2-second delay for correct answers before moving to the next card or finishing
+            setTimeout(() => {
+                if (currentCardIndex < shuffledCards.length - 1) {
                     nextCard();
-                }, 2000);
-            }
+                } else {
+                    isTestCompleted = true;
+                }
+            }, 2000);
         } else {
-            // No point deduction for incorrect answers
-
-            // Set a 5-second delay for incorrect answers before moving to the next card
-            if (currentCardIndex < shuffledCards.length - 1) {
-                setTimeout(() => {
-                    nextCard();
-                }, 5000);
+            // Track incorrectly answered card (avoiding duplicates)
+            if (!incorrectCards.some((card) => card.id === currentCard.id)) {
+                incorrectCards = [...incorrectCards, currentCard];
             }
+
+            // Set a 5-second delay for incorrect answers before moving to the next card or finishing
+            setTimeout(() => {
+                if (currentCardIndex < shuffledCards.length - 1) {
+                    nextCard();
+                } else {
+                    isTestCompleted = true;
+                }
+            }, 5000);
         }
+    }
+
+    // Option 1: Repeat only the incorrectly answered words
+    function repeatIncorrectCards() {
+        shuffledCards = shuffleArray(incorrectCards);
+        incorrectCards = [];
+        currentCardIndex = 0;
+        points = 0;
+        attempted = 0;
+        isTestCompleted = false;
+    }
+
+    // Option 2: Retake the entire test
+    function retakeFullTest() {
+        shuffledCards = shuffleArray(flashCards);
+        incorrectCards = [];
+        currentCardIndex = 0;
+        points = 0;
+        attempted = 0;
+        isTestCompleted = false;
     }
 </script>
 
@@ -982,29 +1134,49 @@
         <h1>Flash Cards Frans</h1>
 
         <div class="score-container">
-            <p>Points: {points} (Attempted: {attempted})</p>
+            <p>Punten: {points} (Geprobeerd: {attempted})</p>
         </div>
 
-        <div class="card-container">
-            <FlashCard
-                flashCard={shuffledCards[currentCardIndex]}
-                on:answerSubmitted={handleAnswerSubmit}
-            />
-        </div>
+        {#if !isTestCompleted}
+            <div class="card-container">
+                <FlashCard
+                    flashCard={shuffledCards[currentCardIndex]}
+                    on:answerSubmitted={handleAnswerSubmit}
+                />
+            </div>
 
-        <div class="navigation">
-            <button on:click={prevCard} disabled={currentCardIndex === 0}
-                >Previous</button
-            >
-            <span class="card-counter"
-                >{currentCardIndex + 1} / {shuffledCards.length}</span
-            >
-            <button
-                on:click={nextCard}
-                disabled={currentCardIndex === shuffledCards.length - 1}
-                >Next</button
-            >
-        </div>
+            <div class="navigation">
+                <button on:click={prevCard} disabled={currentCardIndex === 0}
+                    >Vorige</button
+                >
+                <span class="card-counter"
+                    >{currentCardIndex + 1} / {shuffledCards.length}</span
+                >
+                <button
+                    on:click={nextCard}
+                    disabled={currentCardIndex === shuffledCards.length - 1}
+                    >Volgende</button
+                >
+            </div>
+        {:else}
+            <div class="end-screen">
+                <h2>Toets afgerond! 🎉</h2>
+                <p>
+                    Je hebt {points} van de {shuffledCards.length} woorden goed beantwoord.
+                </p>
+
+                <div class="end-options">
+                    {#if incorrectCards.length > 0}
+                        <button on:click={repeatIncorrectCards}>
+                            Foute woorden herhalen ({incorrectCards.length})
+                        </button>
+                    {/if}
+                    <button on:click={retakeFullTest}>
+                        Hele toets opnieuw maken
+                    </button>
+                </div>
+            </div>
+        {/if}
     </div>
 </main>
 
@@ -1101,5 +1273,33 @@
         background-color: rgba(156, 62, 0, 0.1);
         padding: 4px 10px;
         border-radius: 4px;
+    }
+
+    .end-screen {
+        width: 100%;
+        text-align: center;
+        padding: 25px;
+        background-color: rgba(0, 147, 156, 0.05);
+        border-radius: 10px;
+        border: 2px solid #10abb4;
+        box-sizing: border-box;
+    }
+
+    .end-screen h2 {
+        color: #004c50;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+
+    .end-screen p {
+        font-size: 1.1rem;
+        margin-bottom: 24px;
+    }
+
+    .end-options {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
     }
 </style>
